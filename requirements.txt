@@ -1,0 +1,11 @@
+anyio==3.4.0
+certifi==2021.10.8
+charset-normalizer==2.0.9
+h11==0.12.0
+httpcore==0.14.3
+httpx==0.21.1
+idna==3.3
+PySide6==6.2.2.1
+rfc3986==1.5.0
+shiboken6==6.2.2.1
+sniffio==1.2.0
